@@ -1,0 +1,66 @@
+name: GodKits
+main: me.godkits.Core.Main
+author: Snapje
+api-version: 1.13
+version: 1.14
+website: spigotmc.org/resources/godkits.68053
+description: A highly editable kit plugin with gui.
+permissions:
+  godkits.*:
+    description: Have all the plugin permissions.
+    default: op
+    children:
+      godkits.help: true
+      godkits.create: true
+      godkits.remove: true
+      godkits.edit: true
+      godkits.setinventory: true
+      godkits.sendkit: true
+      godkits.signplace: true
+      godkits.bypasscooldown: true
+      godkits.sendpackage: true
+  godkits.help:
+    description: Have the permission to get the command help.
+    default: false
+  godkits.create:
+    description: Have the permission to create a kit.
+    default: false
+  godkits.remove:
+    description: Have the permission to remove a kit.
+    default: false
+  godkits.edit:
+    description: Have the permission to edit a kit.
+    default: false;
+  godkits.setinventory:
+    description: Have the permission to set the kit items.
+    default: false
+  godkits.sendkit:
+    description: Have the permission to send a kit to a player.
+    default: false
+  godkits.signplace:
+    description: Have the permission to place kit signs.
+    default: false
+  godkits.bypasscooldown:
+    description: Have the permission to bypass the kit cooldown.
+    default: op
+  godkits.sendpackage:
+    description: Have the permission to send kit packages.
+    default: false
+commands:
+  GodKits:
+    aliases: [gkit,gkits,gk,godkit]
+    description: The main plugin command.
+  Kits:
+    description: Show the kit you have.
+  Kit:
+    description: Get a kit.
+  SendKit:
+    aliases: [sk]
+    description: Send a kit to a player.
+  PlaySound:
+    aliases: [ps]
+    description: Play a sound on a players location.
+  Sounds:
+    aliases: [s]
+    description: Toggle plugin sounds.
+

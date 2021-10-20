@@ -1,0 +1,57 @@
+####################################
+#                                  #
+#        Plugin made by:           #
+#           Snapje                 #
+#                                  #
+####################################
+
+
+Settings:
+  prefix: '&8[&e&lGodKits&8]'
+  gui-enabled: true
+  default-kit: 'none'
+  time-format: '%days% %hours% %minutes% %seconds%'
+  sounds-enabled: true
+  package-lore:
+    - '&7(Left-Click) to preview the %kit% &7kit.'
+    - '&7(Right-Click) to open the %kit% package.'
+  
+Sounds:
+  enabled-sounds:
+    sound: 'NOTE_PLING'
+    volume: 1
+    pitch: 1
+  disabled-sounds:
+    sound: 'NOTE_STICKS'
+    volume: 1
+    pitch: 1
+  recieved-kit:
+    sound: 'LEVEL_UP'
+    volume: 1
+    pitch: 1
+
+GUI:
+  kits:
+    gui-name: '&b&lGod Kits'
+    rows: 6
+  settings:
+    gui-name: '&8Settings'
+  gui-editor:
+    gui-name: '&8GUI Editor'
+  messages:
+    gui-name: '&8Message Editor'
+  kit-editor:
+    gui-name: '&8Kit Editor'
+  kit-preview:
+    gui-name: '&8Preview kit'
+  kit-setinventory:
+    gui-name: '&8Set Inventory'
+  other-settings:
+    gui-name: '&8Other Settings'
+  set-rows:
+    gui-name: '&8Set the amount of rows.'
+  default-kit:
+    gui-name: '&8Choose a kit.'
+  kit-gui-editor:
+    gui-name: '&8Kit GUI Editor'
+  
