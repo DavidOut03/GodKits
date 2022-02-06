@@ -1,9 +1,9 @@
-GodKits plugin made by Snapje:
+###GodKits plugin made by Snapje:
 
-If you want to know how to use the plugin:
-https://www.youtube.com/watch?v=vMdmKdCMBSo
+##If you want to know how to use the plugin:
+#https://www.youtube.com/watch?v=vMdmKdCMBSo
 
-Features:
+##Features:
 - Everything is editable from inside the game.
 - Editable kit GUI.
 - Editable kit permissions.
@@ -13,7 +13,7 @@ Features:
 - Place signs, when you click on it you will recieve the kit.
 - Create a kit package so when you open it you will recieve a specific kit.
 
-Commands:
+##Commands:
 - /godkit: The main plugin command.
 - /godkit create [kit]: Create a kit.
 - /godkit remove [kit]: Remove a kit.
@@ -26,7 +26,7 @@ Commands:
 - /kits: Show all the kits.
 - /sendkit [kitname]: Send a kit to a player.
 
-Permissions:
+##Permissions:
 - godkits.*: Have all plugin permissions.
 - godkits.help: Have the permission to get the command help.
 - godkits.create: Have the permission to create a kit.
@@ -40,5 +40,5 @@ Permissions:
 
 If you find bugs or you have features you want to have in the plugin contact me (y).
 
-Contact:
+##Contact:
 E-Mail: davidoutdeveloper@gmail.com
