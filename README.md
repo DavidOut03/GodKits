@@ -1,5 +1,7 @@
 ## GodKits plugin made by Snapje:
 
+- **Website**: [davidout.com](https://www.davidout.com/)
+
 if you want to know how to use the plugin:
 https://www.youtube.com/watch?v=vMdmKdCMBSo
 
@@ -39,6 +41,9 @@ https://www.youtube.com/watch?v=vMdmKdCMBSo
 - godkits.bypasscooldown: Have the permission to bypass the kit cooldown.
 
 If you find bugs or you have features you want to have in the plugin contact me (y).
+
+Copyright ©
+This project was built by David Out for his own experience. You are 100% allowed to use this project for both personal and commercial purposes, but you can NOT CLAIM it as your own. If you are going to use the code or the design of this project for your own or commercial purposes give the credit to David Out, this is highly appreciated!
 
 ## Contact:
 E-Mail: davidoutdeveloper@gmail.com
